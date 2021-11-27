@@ -7,7 +7,7 @@
 **make sure of Download TestNG Framework**
 
 ## Steps to install the project :
-1. install the zep file or use git clone []
+1. install the zep file or use git clone [https://github.com/zaidlafi1/Automation-.git]
 2. make sure all dependency on pom.xml file are installed   
 
 ## To run the project 
