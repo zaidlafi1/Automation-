@@ -11,5 +11,5 @@
 2. make sure all dependency on pom.xml file are installed   
 
 ## To run the project 
-1. Go to testng1.xml File 
+1. Go to testng.xml File 
 2. Run As Testng suite  
