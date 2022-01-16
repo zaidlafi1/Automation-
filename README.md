@@ -1,4 +1,4 @@
-# automation-task
+# automation
 
  ## Steps Before :
 1. Java Installation
